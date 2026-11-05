@@ -14,9 +14,10 @@
 <img src="https://img.shields.io/badge/Telegram-%40norm_tak-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"/>
 </a>
 
-<a href="mailto:feelss4454@gmail.com">
-<img src="https://img.shields.io/badge/Email-feelss4454%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+<a href="https://icecremas.github.io/my-resume/">
+<img src="https://img.shields.io/badge/Resume-Fathiddin-4F8EF7?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
 </a>
+
 
 <a href="https://vk.com/ff4488">
 <img src="https://img.shields.io/badge/VK-ff4488-0077FF?style=for-the-badge&logo=vk" alt="VK"/>
