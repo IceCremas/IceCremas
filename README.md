@@ -56,7 +56,7 @@
 <p><strong>Что сделал:</strong> 5 категорий товаров, корзина с подсчётом суммы и защитой от дублей, фильтрация по категориям.</p>
 <p><strong>Frontend:</strong> карточки товаров, фильтрация, добавление и удаление из корзины.</p>
 <p><code>React</code> <code>JavaScript</code> <code>CSS</code></p>
-<p><a href="https://github.com/IceCremas/НАЗВАНИЕ_РЕПО"><strong>Посмотреть код →</strong></a></p>
+<p><a href="https://github.com/IceCremas/Furniture-Shop"><strong>Посмотреть код →</strong></a></p>
 
 </td>
 </tr>
